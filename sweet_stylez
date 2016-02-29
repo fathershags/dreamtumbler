@@ -14,7 +14,7 @@ body{
 	line-height: 1.6em; 
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	background-color: #313030;
-	background-image:  url(images/templatemo_body.jpg);
+	background-image:  url(https://cloud.githubusercontent.com/assets/17537415/13401634/9c9c465c-df58-11e5-99c4-95a2a2752d8f.jpg);
 	background-position: center top;
 	background-repeat: no-repeat
 }
@@ -48,7 +48,7 @@ cite a, cite a:link, cite a:visited  { font-size: 12px; text-decoration: none; f
 cite span { font-weight: 400; color: #ccc; }
 
 .list_bullet { margin: 10px 0 10px 15px; padding: 0; list-style: none }
-.list_bullet li { color:#fff; margin: 0 0 7px 0; padding: 0 0 0 20px; background: url(images/templatemo_list.png) no-repeat scroll 0 6px  }
+.list_bullet li { color:#fff; margin: 0 0 7px 0; padding: 0 0 0 20px; background: url(https://cloud.githubusercontent.com/assets/17537415/13402315/6ada7db6-df5b-11e5-9d03-76fa6442b250.png) no-repeat scroll 0 6px  }
 .list_bullet li a { color: #fff; font-weight: normal; text-decoration: none }
 .list_bullet li a:hover { color: #fff }
 
@@ -79,7 +79,7 @@ img { margin: 0; padding: 0; border: none }
 	width: 800px;
 	margin: 0 auto;
 	padding: 35px 20px 40px;
-	background: url(images/templatemo-header-bg.png) no-repeat center
+	background: url(https://cloud.githubusercontent.com/assets/17537415/13402316/6adff494-df5b-11e5-877b-c997d460365c.png) no-repeat center
 }
 
 #templatemo_main_wrapper {
@@ -87,7 +87,7 @@ img { margin: 0; padding: 0; border: none }
 	height: 480px;
 	margin: 0 auto;
 	padding: 9px;
-	background: url(images/templatemo_content_bg.png) no-repeat
+	background: url(https://cloud.githubusercontent.com/assets/17537415/13401723/09b31004-df59-11e5-8244-5b7d58e1937d.png) no-repeat
 }
 
 #templatemo_main {
@@ -146,31 +146,31 @@ img { margin: 0; padding: 0; border: none }
 	width: 52px; 
 	height: 45px; 
 	display: block;
-	background: url(images/home_btn.png); 
+	background: url(https://cloud.githubusercontent.com/assets/17537415/13401396/abe58386-df57-11e5-8629-10cb4798b80f.png); 
 	text-indent: -10000px 
 }
 
 .section  a.page_nav_btn { position: absolute; display: block; width: 77px; height: 27px; line-height: 27px; font-weight: 700; bottom: 20px; text-align: center }
 
-.section  a.previous { left: 0; background: url(images/previous_btn.png)  left center no-repeat }
+.section  a.previous { left: 0; background: url(https://cloud.githubusercontent.com/assets/17537415/13402321/6b04f604-df5b-11e5-8967-881944ec75dc.png)  left center no-repeat }
 
-.section  a.next { right: 0; background:  url(images/next_btn.png) right center no-repeat }
+.section  a.next { right: 0; background:  url(https://cloud.githubusercontent.com/assets/17537415/13402319/6ae7b4f4-df5b-11e5-9124-c9d6f088bfa5.png) right center no-repeat }
 
 .home_box { width: 800px; height: 480px; }
 
 .row1 { width: 800px; height: 120px }
 .row2 { width: 800px; height: 240px }
 
-.box1 { background: #9168b3 url(images/templatemo_01.png) scroll 20px 25px no-repeat }
+.box1 { background: #9168b3 url(https://cloud.githubusercontent.com/assets/17537415/13402227/207180bc-df5b-11e5-9a0d-27f40433777d.png) scroll 20px 25px no-repeat }
 .box1:hover { background-color: #7c549d }
 
-.box2 { background: #a8b368 url(images/templatemo_02.png) scroll 20px 25px no-repeat }
+.box2 { background: #a8b368 url(https://cloud.githubusercontent.com/assets/17537415/13402227/207180bc-df5b-11e5-9a0d-27f40433777d.png) scroll 20px 25px no-repeat }
 .box2:hover { background-color: #909b51 }
 
-.box3 { background: #b36c68 url(images/templatemo_03.png) scroll 20px 25px no-repeat }
+.box3 { background: #b36c68 url(https://cloud.githubusercontent.com/assets/17537415/13402227/207180bc-df5b-11e5-9a0d-27f40433777d.png) scroll 20px 25px no-repeat }
 .box3:hover { background-color: #9d5652 }
 
-.box4 { background: #636363 url(images/templatemo_04.png) scroll 20px 25px no-repeat }
+.box4 { background: #636363 url(https://cloud.githubusercontent.com/assets/17537415/13402227/207180bc-df5b-11e5-9a0d-27f40433777d.png) scroll 20px 25px no-repeat }
 .box4:hover { background-color: #4b4b4b }
 
 .box5 { background: #413959 url(images/twitter.png) scroll 18px 15px no-repeat  }
